@@ -1,0 +1,6 @@
+=== Generando JWT ===
+JWT generado: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
+
+=== Validación con clave correcta ===
+JWT válido ✅
+Contenido: {'carnet': '202012345', 'nombre': 'Juan Pérez Monzón', 'curso': 'Programación Web', 'seccion': 'A', 'exp': 1726171385}

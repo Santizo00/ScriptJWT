@@ -1,0 +1,5 @@
+=== Generando JWT ===
+JWT generado: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
+
+=== Validación con clave incorrecta ===
+Error al validar con clave incorrecta: Signature verification failed

@@ -1,0 +1,7 @@
+=== Generando JWT ===
+JWT generado: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
+
+=== Esperando a que el token expire (6 segundos) ===
+
+=== Validación después de expirar ===
+Error: el token ha expirado ⏰
